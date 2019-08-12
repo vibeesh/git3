@@ -4,4 +4,4 @@
 * one
 * two
 
-[link][google.com]
+[link](google.com)
